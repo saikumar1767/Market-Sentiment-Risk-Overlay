@@ -1,0 +1,7 @@
+pandas
+yfinance
+vaderSentiment
+feedparser
+openpyxl
+matplotlib
+seaborn
