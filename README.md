@@ -1,4 +1,4 @@
-# Daily Market Sentiment Risk Overlay Agent (v2)
+# Daily Market Sentiment Risk Overlay Agent (v1 as of now)
 
 This AI agent fetches news headlines for major tickers, analyzes sentiment using VADER, overlays it with factor exposure data, and flags misalignments for risk insights.
 
